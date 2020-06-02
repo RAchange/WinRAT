@@ -1,0 +1,16 @@
+﻿  netcat.cpp
+D:\WinRAT\netcat\netcat.cpp(50,42): warning C4101: 'lpTargv': 未參考的區域變數
+D:\WinRAT\netcat\netcat.cpp(52,11): warning C4101: 'nRead': 未參考的區域變數
+D:\WinRAT\netcat\netcat.cpp(170,23): warning C4473: 'scanf_s' : 傳遞給格式字串的引數不足
+D:\WinRAT\netcat\netcat.cpp(170,23): message : 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+D:\WinRAT\netcat\netcat.cpp(170,23): message : 缺少 variadic 引數 2 (其為格式字串 '%s' 所需)
+D:\WinRAT\netcat\netcat.cpp(170,23): message : 此引數可用為緩衝區大小
+D:\WinRAT\netcat\netcat.cpp(137,21): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\WinRAT\netcat\netcat.cpp(207,22): warning C4996: 'WSASocketA': Use WSASocketW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+     正在建立程式庫 D:\WinRAT\Release\netcat.lib 和物件 D:\WinRAT\Release\netcat.exp
+  正在產生程式碼
+  5 of 23 functions (21.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  netcat.vcxproj -> D:\WinRAT\Release\netcat.exe
